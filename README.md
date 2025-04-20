@@ -1,5 +1,25 @@
 # Blog
 
+## Core Features
+
+- View All Posts
+
+- View Single Post
+
+- Add Post
+
+- Edit Post
+
+- Delete Post
+
+- Search Posts by Title
+
+- Filter Posts by Author
+
+- Loading Spinner with HttpInterceptor
+
+=============================================
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
 ## Development server
